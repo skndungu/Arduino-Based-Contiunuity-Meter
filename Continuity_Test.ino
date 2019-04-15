@@ -1,8 +1,8 @@
-const int continousPin = 2; // pin goes to your TP(Test Point)
+const int continousPin = 2; //pin goes to your TP(Test Point)
 const int buzzerPin = 3;  // connects to your buzzer
 
-const int trigPin = 4;
- int value = 0; // connects to your Common pin on the meter
+const int trigPin = 4;  // connects to your Common pin on the meter
+ int value = 0; 
 
  
 void setup() {
